@@ -12,7 +12,7 @@ Initial String:
 String After Replacements:  
 &nbsp;&nbsp;{  
 &nbsp;&nbsp;&nbsp;&nbsp;"name":"John",  
-&nbsp;&nbsp;&nbsp;&nbsp;"age":30, 
+&nbsp;&nbsp;&nbsp;&nbsp;"age":30,  
 &nbsp;&nbsp;&nbsp;&nbsp;"car":"null",  
 &nbsp;&nbsp;&nbsp;&nbsp;"data":"testData\\"Characteres in double quotes\\"testData"  
 &nbsp;&nbsp;}
