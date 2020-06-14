@@ -6,7 +6,7 @@ The nessesary replacements for an JSON to convert succefully in Object
 &nbsp;&nbsp;&nbsp;&nbsp;\"name\":\"John\",  
 &nbsp;&nbsp;&nbsp;&nbsp;\"age\":30,  
 &nbsp;&nbsp;&nbsp;&nbsp;\"car\":\"null\",  
-&nbsp;&nbsp;&nbsp;&nbsp;\"data\":\"testData\"Characteres in double quotes\"testData\"  
+&nbsp;&nbsp;&nbsp;&nbsp;\"data\":\"testData **\"** Characteres in double quotes **\"** testData\"   !!!!!!!!
 &nbsp;&nbsp;}  
 * Initial Serialized String:  
 &nbsp;&nbsp;{  
